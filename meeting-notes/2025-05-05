@@ -1,0 +1,47 @@
+## 회의정보
+
+일시 : 2025-05-05
+참석자 : 김도현, 이소현, 정우진, 진호용
+회의방식 : Discord
+
+
+## TASK(다음 회의까지)
+
+- 각자 맡은 use case에 대한 requirement list, use case descriptions 작성해오기 + 깃허브에 올리기
+- 각자 작성한 use case 깃허브에 올리기
+
+
+## 논의내용
+
+1. use case 피드백
+DHK usecase
+-데이터 삭제를 extend에서 제외
+-로그아웃은 extend가 아닌 새로운 useCase로
+
+WJJ usecase
+-상세정보 화면이 자전거 대여소 리스트 화면을 extend
+-자전거 대여, 자전거 예약 대기가 상세정보 화면을 extend
+-자전거 대여, 자전거 예약 대기에서 바로 문자 발송 시스템으로
+
+HYJ usecase
+-식당 추천 시스템과 자전거 반납을 연결
+
+SHL usecase
+- starUML v5로 변경
+
+2. 제출 파일 형식
+requirement list, use case descriptions의 형식을 md 파일로 결정
+이후 pdf로 변환할지는 정하지 않음.
+
+3. UML tool 결정
+starUML v5(무료버전)로 변경
+
+4. 깃허브 리포지토리 구조, 전략 합의
+
+5. 다음 회의 날짜 정하기
+5월7일(수) 오후4시/Discord
+
+
+## 다음 회의 논의사항
+
+1. requirement list, use case descriptions 피드백
