@@ -1,5 +1,5 @@
 #### Use case:
-1. 대여소 상세정보 조회
+1. 대여소 상세정보 조회 
 |Actor Action | System Response |
 |---|---|
 |1. NONE |2. 대여소 리스트 화면을 출력한다.|
