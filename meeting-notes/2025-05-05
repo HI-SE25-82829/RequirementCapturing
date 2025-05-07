@@ -9,6 +9,7 @@
 
 - 각자 맡은 use case에 대한 requirement list, use case descriptions 작성해오기 + 깃허브에 올리기
 - 각자 작성한 use case 깃허브에 올리기
+- use case 통합(진호용)
 
 
 ## 논의내용
@@ -34,7 +35,7 @@ requirement list, use case descriptions의 형식을 md 파일로 결정
 이후 pdf로 변환할지는 정하지 않음.
 
 3. UML tool 결정
-starUML v5(무료버전)로 변경
+v6 사용(통합자 기준. 30일 지나도 새로 받아서 import하는 방식)
 
 4. 깃허브 리포지토리 구조, 전략 합의
 
