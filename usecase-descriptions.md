@@ -1,5 +1,3 @@
-#### Use case:
-
 #### 1. 회원 가입
 |Actor Action | System Response |
 |---          |---              |
